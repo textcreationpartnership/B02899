@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[A declaration of] the free-commoners of England, declaring and protecting against all tyranny and opression, in whomsoever: being resolved to owne their native-byrth-rights [sic], and thereing to center.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02899</idno>
+            <idno type="STC">Wing D670A</idno>
+            <idno type="STC">ESTC R234032</idno>
+            <idno type="EEBO-CITATION">51784477</idno>
+            <idno type="OCLC">ocm 51784477</idno>
+            <idno type="VID">174892</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02899)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174892)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2704:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[A declaration of] the free-commoners of England, declaring and protecting against all tyranny and opression, in whomsoever: being resolved to owne their native-byrth-rights [sic], and thereing to center.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing (2nd ed.).</note>
+                  <note>Imperfect: cropped, tightly bound, with some loss of text.</note>
+                  <note>Reproduction of original in: Universität Göttingen Bibliothek.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Protest literature, English --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:174892:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 9 -->
+            <head>
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the free-<hi>Commoners</hi> of <hi>England,</hi> Declaring and Proteſting againſt all <hi>Tyranny</hi> and <hi>Opreſ<g ref="char:EOLhyphen"/>ſion,</hi> in whomſoever: Being Reſolved to Owne their Native-byrth-Rights, and therein to Center.</head>
+            <p>WEE having ſeriouſly weighed and conſidered the ſad Eſtate and Condition of this Common-wealth, and finding by wofull expe<g ref="char:EOLhyphen"/>rience, that Domination, Riches, and Honour, are the things which men in power have and doe ſtill thirſt after, and thereby cap<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> and enſlave the people at their wills, adding oppreſſion to oppreſſion, and doubling cruelties upon cruelties; Finding no Redreſſe of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur miſeries which wee daily groane under, Wee cannot hold our Peace, to ſee the Land of our Nativity waſted, and the Free-borne <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ple therein, become the worſt of ſlaves. Therefore We doe Declare, and hereby ſolemnly Agree and avow unto each other, and to People of this Nation, that we will improve all lawfull wayes and meancs, to the utmoſt of our power, for the Settlement and Conſti<g ref="char:EOLhyphen"/>on of this Common wealth, upon the foundations of an equall and juſt Government, by way of an Agreement of the People: And in Order thereunto.</p>
+            <p>We doe Declare and proteſt againſt all Tyranny, Oppreſſion, and cruelty, exerciſed upon our fellow Brethren, the free People of this <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ion, by any whomſoever; And that through generall termes none may miſtake us, Wee thus cleerly expreſſe our ſelves in particulars, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>olloweth.</p>
+            <p>Wee doe Declare and Proteſt againſt the long Seſſion of thoſe now in Parliament, who ſtile themſelves the Supreme Authority of this <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ion, as repreſentours of the People thereof, but are not any otherwiſe then becauſe the people have no other: and are therefore faine <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee content with ſuch officers, Lawyers, and corrupt perſons, as the Commanders think fit to leave, together with a few honeſt men to <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ntenance their miſchievous deſignes, and to bee over-voted at their pleaſures.</p>
+            <p>Wee doe Declare and Proteſt againſt the preſent uſurpation and ſurprizal of the Name, Stamp, and Authority of Parliament, by the ſaid <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: And alſo againſt all their Votes, Orders, Ordinances, Declarations and Acts, or that hereafter they ſhall paſſe, as not binding to People.</p>
+            <p>And therefore we doe Promiſe and Reſolve faithfully to each other, and to the people. That we will with Life and Fortunes to the ut<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>t of our power and endeavors, after the ſpeedy obtainment of a free and equall Repreſentative, limited and bounded within the compaſs Common Rights, Freedoms, and Safety, both in point of time and power, and to that end wee ſhall endeavour after the ancient Rights Annual Parliaments, wherein wee will acquieſce.</p>
+            <p>Wee doe Declare and Proteſt againſt the Counſell of State ſo called, being of an unlawfull and corrupt Conſtitution, having no foun<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>on from the conſent and power of the People, being meerely erected and obtained by the Sword. Wee doe Declare and Proteſt againſt the Impriſonment of Lievetenant Col. <hi>John Lilborne,</hi> Mr. <hi>William Walwyn,</hi> Mr. <hi>Thomas Prince,</hi> and <hi>Richard Overton,</hi> by the ſaid pretended Councell, and doe require their ſafe and preſent Enlargement from their Reſtraint, with hono<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>e Reparations for the abuſes and injuries put upon them.</p>
+            <p>Wee doe Declare and Proteſt againſt the intruſion of the Military power into the Seat of the Magiſtrate, as wholly beyound the bounds <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eaſon; and altogether inconſiſtent with the Freedoms of England.</p>
+            <p>Wee doe Declare and Ptoteſt againſt the cruel Oppreſſion of Ty<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hes, Exciſe, Monopolies, and Taxes of all ſorts whatſoever except <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ſidies, the old and only juſt way of England, and particularly againſt this new Tax of 90. Thouſand ponds <hi>per menſem.</hi>
+            </p>
+            <p>Wee doe Declare and Proteſt againſt the Sale of the Kings Revenues, Biſhops, Deanes, and Chapters Lands, or any other Lands, Goods, Revenues, which of right belong to the pulique.</p>
+            <p>Wee doe declare and proteſt againſt the Incloſure of Fennes, Foreſts, Fields, Moores, Heaths, Woods, parks, Chaſes, and Commons <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll ſorts, which have beene taken from the poore of this Land. And Wee are reſolved to doe our utmoſt to reſtore them again for the good and benefit of the poore.</p>
+            <p>Wee doe declare and proteſt againſt the frequent giving away of great ſummes of money, and great Eſtates to private perſons, to ſome <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, 6, 8, 10, 20, 30, 40, 50. hundred pounds <hi>per ann.</hi> which doth of right belong to the publique, whileſt the poore of the Nation are ſuffered <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tarve for want of Food.</p>
+            <p>Wee doe declare and proteſt againſt the Corrupt Intereſt of thoſe Vermine and Catterpillers of this Common-wealth, The Law<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4+ letters">
+                  <desc>••••…</desc>
+               </gap>, &amp;c. And for ridding the Land thereof, and of all other Oppreſſions, wee reſolve to improve our utmoſt Intereſt to put a period <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Cruell, Chargeable, Dangerous, and Fraudulent proceedings at Law; And that our Lawes, and all proceedings therein bee in gliſh, ſhort and plaine; and that the Law-makers, bee not Law-exequtours, that where no Law is, there may bee no puniſhment. That Officers of the Common-Wealth bee Choſen in their Reſpective places and diviſions by the people thereof; and that none con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>e above a yeare without rendring an account of their ſaid Truſt; That all Cauſes bee ended in the reſpective hundreds and Di<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ons, and no Suit depend above a moneth or quarter of a yeare at the furtheſt: That puniſhment bee proportioned more equally to <gap reason="illegible" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>ences, that ſo mens Lives and Eſtates may not bee forfeited upon ſleight and triviall occaſions: That no Judgement or Conviction of <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e, Liberty, or Eſtate bee, but only by 12. ſworn men of the Neighbourhood: That no man bee proceeded againſt by way of Interoga<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>es; or bee puniſhed for refuſing to Anſwer to Queſtions againſt themſelves in Criminall Cauſes: That no perſon bee abridged from <gap reason="illegible" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>ding into any parts beyond the Seas, unto which any are allowed, or be Reſtrained at home: but all perſons be equally alike ſubjected <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aw,: That no perſon be preſſed or Conſtrained to ſerve in Wars either by Sea or Land.</p>
+            <p>Wee doe Declare and Proteſt againſt the Tyrannicall Uſurpation and Incroachment of Lords of Mannors, who keepe divers of the Free <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ple of this Nation in continual ſlavery and bondage, by laying Fines and other Services upon them, when as they by right are as free as <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>mſelves.</p>
+            <p>We do Declare and Proteſt againſt all Compulſive and Reſtrictive power in any perſons and perſons in or about matters of Faith, Religi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and Gods worſhip.</p>
+            <p>Wee doe Declare and Proteſt againſt the Breach of that Solemne Engagement of the Army made at <hi>Newmarket</hi> and <hi>Triploe</hi> Heaths, 25.1647.</p>
+            <p>Wee doe Declare and proteſt againſt all and every perſon or perſons which ſhall by any wayes or meanes whatſoever, aſſume to them<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>es Kingly power within this Nation, or ſeeke to ſet up any one or more as Supreme, or ſhall uſurpe any authority over the people of Nation according to their own Wills; For it is not perſons, but principles of Righteouſneſſe and Freedome which wee ſhall endeavor <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dvance.</p>
+            <p>And wee doe hereby ſolemnly, as in the preſence of the All-ſeeing God, Agree and Vow unto each other, and to all the people of England, That wee will faithfully proſecute the Ends of this our Declaration and Proteſt; And with our Lives and Fortunes wee will be Aiding and Aſſiſting to each other; And to all and every perſon that ſhall joyn with, and aſſiſt us in this our En<g ref="char:EOLhyphen"/>gagement: And that wee will not, by the might of God, directly or indirectly goe back, or fall from the faithfull and conſtant proſecution thereof, till the Common wealth upon the grounds of Common-Right, Freedom and Safety, bee Setled.</p>
+            <closer>So help us God.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
